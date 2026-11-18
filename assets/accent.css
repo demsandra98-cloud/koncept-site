@@ -1,0 +1,13 @@
+/* Акцентный шрифт: Mr.Amazin — только заголовки и крупные цифры.
+   Основной текст остаётся на Manrope. Чтобы вернуть всё как было — удалите ссылку на этот файл. */
+/* буквы и знаки — Mr.Amazin */
+@font-face{font-family:'Mr Amazin';src:url('fonts/Mr.Amazin-Regular-Type.otf') format('opentype');font-weight:400;font-style:normal;font-display:swap;unicode-range:U+0020-002F,U+003A-007E,U+00A0-00FF,U+0400-04FF,U+2000-206F,U+2116}
+/* цифры 0–9 — Manrope (в Mr.Amazin нули с точкой внутри) */
+@font-face{font-family:'Mr Amazin';src:url('fonts/Manrope-digits.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap;unicode-range:U+0030-0039}
+:root{--accent:'Mr Amazin','Manrope',sans-serif}
+h1,h2,h3,
+.big-n,.tphead .no,
+.idx b,.tpnext b,
+.facts b,.objs b,#hero .stats b,
+.tile h3,.ocard h3,
+.tplist li{font-family:var(--accent);font-weight:400;font-synthesis:none;letter-spacing:-.01em}

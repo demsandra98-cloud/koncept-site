@@ -1,0 +1,21 @@
+Фотографии с Wikimedia Commons (свободные лицензии). Для лицензий CC BY / CC BY-SA нужно указывать автора и лицензию.
+
+site/img/web_sport2.jpg — Sibir Arena Novosibirsk.jpg — CC0 — автор: Dvp777 — https://commons.wikimedia.org/wiki/File:Sibir_Arena_Novosibirsk.jpg
+site/img/web_air1.jpg — Tolmachevo airport in 2023.jpg — CC BY-SA 4.0 — автор: SpeedOfLight — https://commons.wikimedia.org/wiki/File:Tolmachevo_airport_in_2023.jpg
+site/img/web_air2.jpg — Tolmachevo Airport (February 2024) - 4.jpg — CC BY-SA 4.0 — автор: Vyacheslav Bukharov — https://commons.wikimedia.org/wiki/File:Tolmachevo_Airport_(February_2024)_-_4.jpg
+site/img/web_ret1.jpg — ТРЦ «Галерея Новосибирск» 1.jpg — CC BY-SA 4.0 — автор: К.Артём.1 — https://commons.wikimedia.org/wiki/File:%D0%A2%D0%A0%D0%A6_%C2%AB%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%C2%BB_1.jpg
+site/img/web_hotel1.jpg — Mirotel, Novosibirsk 1.jpg — CC BY-SA 4.0 — автор: К.Артём.1 — https://commons.wikimedia.org/wiki/File:Mirotel,_Novosibirsk_1.jpg
+site/img/web_edu2.jpg — NSU new building.jpg — CC BY-SA 4.0 — автор: Nsu marketing — https://commons.wikimedia.org/wiki/File:NSU_new_building.jpg
+site/img/web_edu3.jpg — Novosibirsk State University main town.jpg — CC BY 4.0 — автор: Apanasevich Maxim — https://commons.wikimedia.org/wiki/File:Novosibirsk_State_University_main_town.jpg
+
+web_rail1.jpg, web_rail2.jpg - Pexels (бесплатная лицензия Pexels), поручни из нержавеющей стали, фото 36272819 и 36788717
+
+tol_ant_*.jpg - фотографии Международного аэропорта Толмачёво, источник antproject.ru/tolmachevo (ООО «АНТ ПРОЕКТ»), использованы по указанию заказчика презентации
+
+kam_*.jpg - новый терминал аэропорта Елизово (Камчатка). Фото: Тимофей Тимофеев, телеграм-канал «Международный аэропорт Елизово»; источник kamtoday.ru, использовано по указанию заказчика презентации
+
+bar_*.jpg - Аэропорт Барнаул, Wikimedia Commons, автор Artyom Svetlov, CC BY 4.0 (файлы Barnaul Airport 2024-06 1717403653/403661/407204/402434)
+
+stock_cut.jpg (Pexels 17180807, Ana Victoria Valverde), stock_plan.jpg (Pexels 6615234, Tima Miroshnichenko), stock_install.jpg (Pexels 34042286, SHOX ART) - бесплатная лицензия Pexels, иллюстрации для слайда «Производство и монтаж»
+
+ref_*.jpg - рендеры и фото из каталога Glass Factory NSK (пример структуры и то что нравится.pdf), использованы по указанию заказчика презентации; права у авторов проектов/Glass Factory NSK
