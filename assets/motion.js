@@ -12,3 +12,22 @@ document.querySelectorAll('h1.rv,h2.rv,h3.rv').forEach(function(h){
 // страховка: заголовки в зоне видимости открываем по прокрутке, даже если наблюдатель не сработал
 function revealHeads(){var vh=innerHeight;document.querySelectorAll('h1.rv:not(.in),h2.rv:not(.in),h3.rv:not(.in)').forEach(function(h){var r=h.getBoundingClientRect();if(r.top<vh*0.92&&r.bottom>0)h.classList.add('in')})}
 addEventListener('scroll',revealHeads,{passive:true});addEventListener('load',revealHeads);addEventListener('resize',revealHeads);revealHeads();
+
+
+// Защита почты от спам-ботов и автоматических парсеров
+function decodeProtectedEmails(){
+  document.querySelectorAll('[data-em-user]').forEach(function(el){
+    var u = el.getAttribute('data-em-user');
+    var d = el.getAttribute('data-em-dom');
+    if(u && d){
+      var full = u + '@' + d;
+      el.href = 'mailto:' + full;
+      el.textContent = full;
+    }
+  });
+}
+if(document.readyState === 'loading'){
+  document.addEventListener('DOMContentLoaded', decodeProtectedEmails);
+} else {
+  decodeProtectedEmails();
+}
